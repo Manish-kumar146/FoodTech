@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605208212637",
+    "firebase_url": "https://foodtech-4c5d3.firebaseio.com",
+    "project_id": "foodtech-4c5d3",
+    "storage_bucket": "foodtech-4c5d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605208212637:android:dc79327b3364d2aa161074",
+        "android_client_info": {
+          "package_name": "com.example.foodtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605208212637-m28bpqn94qij1a402jh9bhhu0om0bgpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaq4IULZQZpHzIqC0_T8IQDdVn6vpx4FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605208212637-m28bpqn94qij1a402jh9bhhu0om0bgpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
